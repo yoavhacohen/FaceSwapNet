@@ -1,2 +1,2 @@
 # FSNet
-FaceSwapNet: Landmark Guided Many-to-Many Face Reenactment
+A pytorch implementation of FaceSwapNet, code will be released soon
